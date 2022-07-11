@@ -6,4 +6,5 @@ La aplicación consiste basicamente en gestionar tus tareas pendientes, donde po
 - Crear nuevas tareas pendientes.
 - Ver las tareas pendientes y completadas.
 - Marcar tareas completadas como pendientes.
+- Eliminar tareas
 
